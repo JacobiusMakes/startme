@@ -1,0 +1,29 @@
+{
+  "name": "startme",
+  "version": "0.1.0",
+  "description": "Auto-generate AI-readable codebase orientation files. One scan, one file, any model.",
+  "type": "module",
+  "bin": {
+    "startme": "bin/startme.js"
+  },
+  "scripts": {
+    "start": "node bin/startme.js",
+    "test": "node --test test/"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "codebase",
+    "context",
+    "agents-md",
+    "claude-md",
+    "orientation",
+    "developer-tools",
+    "cli"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacobiusMakes/startme"
+  }
+}
