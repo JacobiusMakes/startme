@@ -1,0 +1,15 @@
+startme — Auto-generate AI-readable codebase orientation files. One scan, one file, any model.
+Stack: node
+
+COMMANDS
+  start: node bin/startme.js
+  test: node --test test/
+
+ENTRY POINTS
+  startme → bin/startme.js
+
+STRUCTURE
+  README.md
+  bin/ (1 files)
+  lib/ (2 files)
+  package.json
