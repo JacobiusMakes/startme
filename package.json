@@ -1,5 +1,5 @@
 {
-  "name": "startme",
+  "name": "startme-ai",
   "version": "0.1.0",
   "description": "Auto-generate AI-readable codebase orientation files. One scan, one file, any model.",
   "type": "module",
